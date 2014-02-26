@@ -23,5 +23,6 @@
 </form>
 
 </body>
-</html>
+
 <h2>footer title</h2>
+</html>
